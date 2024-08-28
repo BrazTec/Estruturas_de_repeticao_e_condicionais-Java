@@ -1,6 +1,8 @@
 Estruturas de repetição e de condionais em Java
 
 public class Notas {
+    
+    
     //for (<variável de controle>, <análise da variável de controle>, <incremento da variável de controle>) {
         // Código a ser executado
     //}
@@ -29,7 +31,7 @@ public class Notas {
     //      Scanner in = new Scanner(System.in);
     //      int numero = -1;
     //      while (numero != 10) {
-// enquanto a variável não for 10, o trecho de código será repetido
+    // enquanto a variável não for 10, o trecho de código será repetido
     //          System.out.println(“Digite um número: “);
     //          numero = in.nextInt();
     //          if (numero == 10) {
@@ -97,7 +99,7 @@ public class Notas {
     //}
 
 
-//Estruturas Condicionais:
+    //Estruturas Condicionais:
     //exemplo onde o if é utilizado em conjunto com o else.
     //
 
