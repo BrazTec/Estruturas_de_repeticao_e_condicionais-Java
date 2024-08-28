@@ -3,10 +3,10 @@ Estruturas de repetição e de condionais em Java
 public class Notas {
     
     
-    //for (<variável de controle>, <análise da variável de controle>, <incremento da variável de controle>) {
+//for (<variável de controle>, <análise da variável de controle>, <incremento da variável de controle>) {
         // Código a ser executado
-    //}
-    //exemplo com For:
+//}
+//exemplo com For:
 
     //public class Exemplo {
     //
@@ -21,10 +21,10 @@ public class Notas {
 
 
 
-    //while (<condição>) {
-    //    // Trecho de código a ser repetido
-    //}
-    //exemplo com while:
+//while (<condição>) {
+    // Trecho de código a ser repetido
+//}
+//exemplo com while:
 
     //public class Exemplo {
     //  public static void main(String[] args) {
@@ -47,7 +47,7 @@ public class Notas {
 
 
 
-    //Switch/Case
+//Switch/Case
 
     //public class Exemplo {
     //
@@ -99,9 +99,9 @@ public class Notas {
     //}
 
 
-    //Estruturas Condicionais:
-    //exemplo onde o if é utilizado em conjunto com o else.
-    //
+//Estruturas Condicionais:
+//exemplo onde o if é utilizado em conjunto com o else.
+
 
     //public class Exemplo {
     //
@@ -119,8 +119,8 @@ public class Notas {
     //}
 
 
-    //Também podemos utilizar somente o if, não definindo um fluxo alternativo.
-    //
+//Também podemos utilizar somente o if, não definindo um fluxo alternativo.
+
 
     //public class Exemplo {
     //
@@ -136,8 +136,8 @@ public class Notas {
     //}
 
 
-    //Ainda é possível encadear múltiplas estruturas if/else caso necessário.
-    //
+//Ainda é possível encadear múltiplas estruturas if/else caso necessário.
+
 
     //public class Exemplo {
     //
